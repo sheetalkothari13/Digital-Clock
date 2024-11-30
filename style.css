@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 17cm;
+    background: linear-gradient(to right, #7a1139, #ffabd1);
+    font-family: 'Arial', sans-serif;
+}
+
+#clock {
+    background: #c14977;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    font-size: 2cm;
+    letter-spacing: 3px;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
